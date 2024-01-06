@@ -482,6 +482,7 @@ Supported devices:
     _TZ3000_gszjt2xx / TS0207
     _TZ3000_ufttklsz / TS0207
     _TZ3000_nkkl7uzv / TS0207
+    _TZ3000_nlsszmzl / TS0207
 
 - 4 Channel Relay Board
     _TZ3000_hdlpifbk / TS0004
